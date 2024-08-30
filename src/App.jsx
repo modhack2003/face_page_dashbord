@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import FacebookLoginButton from './components/FacebookLogin';
-import Pages from './components/Pages';
+import Pages from './components/pages';
 
 const App = () => {
   const [accessToken, setAccessToken] = useState(null);
