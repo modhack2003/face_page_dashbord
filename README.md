@@ -1,6 +1,5 @@
-Here's the README file formatted with Markdown:
 
-```markdown
+
 # Facebook Page Insights Dashboard
 
 A React application that integrates with Facebook's Graph API to allow users to log in with their Facebook account, view pages they manage, and fetch various insights for those pages.
@@ -76,5 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any inquiries, you can reach out to [your-email@example.com](mailto:your-email@example.com).
-```
 
