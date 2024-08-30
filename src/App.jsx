@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <div className='min-h-screen bg-gradient-to-r from-blue-500 to-indigo-600 flex flex-col justify-center items-center p-4'>
-      <div className='bg-white rounded-lg shadow-lg p-4 md:p-8 w-full md:w-3/4 lg:w-1/2 xl:w-1/3'>
+      <div className='bg-white rounded-lg shadow-lg p-4 md:p-8 w-full md:w-3/4 lg:w-1/2 xl:w-1/2'>
         {!accessToken ? (
           <>
             <h1 className='text-xl md:text-2xl font-bold mb-4 text-center text-gray-800'>Connect with Facebook</h1>
