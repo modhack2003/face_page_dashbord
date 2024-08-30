@@ -23,7 +23,7 @@ const FacebookLoginButton = ({ setAccessToken, setProfile }) => {
         scope="pages_read_engagement,pages_show_list,pages_manage_metadata,pages_read_user_content"
         callback={handleLogin}
         textButton="Login with Facebook"
-        cssClass="facebook-button bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded flex items-center"
+        cssClass="facebook-button bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded flex items-center w-full md:w-auto"
         icon="fa-facebook"
       />
     </div>
